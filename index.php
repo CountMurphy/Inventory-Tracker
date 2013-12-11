@@ -3,8 +3,6 @@
 <html> 
 <head> 
 <title>The Goods</title> 
-<link href="../styles.css"rel="stylesheet"type="text/css"/> 
-<link rel="SHORTCUT ICON" href="../favicon.ico" /> 
 </head> 
 <body> 
 <h1>Current Hardware Inventory</h1> 
