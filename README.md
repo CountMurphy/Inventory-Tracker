@@ -9,12 +9,19 @@ This project was initially created to help me keep my sql skills sharp, hence th
 
 
 +----------+--------------+------+-----+---------+----------------+
+
 | Field    | Type         | Null | Key | Default | Extra          |
+
 +----------+--------------+------+-----+---------+----------------+
+
 | ID       | int(11)      | NO   | PRI | NULL    | auto_increment |
+
 | Output   | decimal(4,1) | NO   |     | NULL    |                |
+
 | Quantity | int(11)      | NO   |     | NULL    |                |
+
 | LDO      | binary(1)    | NO   |     | NULL    |                |
+
 +----------+--------------+------+-----+---------+----------------+
 
 
